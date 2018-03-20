@@ -19,7 +19,19 @@
   </url>
   
   <url>
+    <loc>https://radzaeem.github.io/tags/gsoc/</loc>
+    <lastmod>2018-03-20T22:05:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://radzaeem.github.io/categories/post/</loc>
+    <lastmod>2018-03-20T22:05:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://radzaeem.github.io/tags/post/</loc>
     <lastmod>2018-03-20T22:05:02+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -38,6 +50,7 @@
   
   <url>
     <loc>https://radzaeem.github.io/tags/</loc>
+    <lastmod>2018-03-20T22:05:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   

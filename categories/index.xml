@@ -10,5 +10,23 @@
 	<atom:link href="https://radzaeem.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>GSoC</title>
+      <link>https://radzaeem.github.io/categories/gsoc/</link>
+      <pubDate>Tue, 20 Mar 2018 22:05:02 +0800</pubDate>
+      
+      <guid>https://radzaeem.github.io/categories/gsoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://radzaeem.github.io/categories/post/</link>
+      <pubDate>Tue, 20 Mar 2018 22:05:02 +0800</pubDate>
+      
+      <guid>https://radzaeem.github.io/categories/post/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GSoC on Raden.notes</title>
-    <link>https://radzaeem.github.io/tags/gsoc/</link>
-    <description>Recent content in GSoC on Raden.notes</description>
+    <title>Posts on Raden.notes</title>
+    <link>https://radzaeem.github.io/posts/</link>
+    <description>Recent content in Posts on Raden.notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Mar 2018 22:05:02 +0800</lastBuildDate>
     
-	<atom:link href="https://radzaeem.github.io/tags/gsoc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://radzaeem.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://radzaeem.github.io/my-first-post/</link>
-      <pubDate>Tue, 20 Mar 2018 22:05:02 +0800</pubDate>
-      
-      <guid>https://radzaeem.github.io/my-first-post/</guid>
-      <description>Bismillah.
-Here is my first post.
-I&amp;rsquo;m prepping for GSoC 2018.
-Thanks for reading!</description>
-    </item>
     
     <item>
       <title>My First Post</title>

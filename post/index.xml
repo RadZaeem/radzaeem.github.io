@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Raden.notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 22:05:02 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Apr 2018 18:39:48 +0900</lastBuildDate>
     
 	<atom:link href="https://radzaeem.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gsoc Start</title>
+      <link>https://radzaeem.github.io/gsoc-start/</link>
+      <pubDate>Sat, 21 Apr 2018 18:39:48 +0900</pubDate>
+      
+      <guid>https://radzaeem.github.io/gsoc-start/</guid>
+      <description>I am accepted as student for GSoC, under Debian, supervised by mentor Dashamir Hoxha.
+This blog will be used to post my weekly reports.</description>
+    </item>
     
     <item>
       <title>My First Post</title>
